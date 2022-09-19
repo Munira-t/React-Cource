@@ -1,0 +1,109 @@
+
+.header {
+  min-height: 33rem;
+}
+
+.ff-playfair-display {
+  font-family: 'Playfair Display', serif;
+}
+
+.ff-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.fs-600 {
+  font-size: 11rem;
+}
+
+.fs-400 {
+  font-size: 6rem;
+}
+
+.fs-200 {
+  font-size: 2rem;
+}
+
+.title-name {
+  margin-top: 10rem;
+}
+
+.rectangle {
+  width: 400px;
+  height: 100px;
+  background-color: rgb(188, 126, 187);
+  border-radius: 20px;
+}
+
+
+.html , .css , .sass , .js , .bootstrap , .react , .figma , .trello , .zeplin {
+font-family: 'Poppins', sans-serif;;
+ display: flex;
+ font-size: 2.7rem;
+ color: #ffff;
+ justify-content: center;
+ flex-direction: column; 
+width: 100px;
+height: 400px;
+text-align: center;
+vertical-align: middle;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.html {
+background-color: rgb(136, 203, 164);
+}
+
+.css {
+  background-color: rgb(96, 118, 191);
+}
+
+.sass {
+  background-color: rgb(225, 111, 197);
+}
+
+.js {
+  background-color: rgb(220, 201, 90); 
+}
+
+.bootstrap {
+  background-color: rgb(169, 76, 223); 
+
+}
+
+.react {
+  background-color: rgb(76, 164, 223); 
+}
+
+.figma {
+  background-color: rgb(182, 94, 98);  
+}
+
+.trello {
+  background-color: rgb(101, 211, 178);  
+}
+
+.zeplin {
+  background-color: rgb(211, 160, 101);  
+
+}
+
+.img {
+width: 200px;
+height: 300px;
+border-radius: 100%;
+position: absolute;
+}
+
+a {
+  font-family: 'Poppins', sans-serif;;
+  font-size: 2.7rem;
+  color: #ffff;
+  text-decoration: none;
+}
+
+.title {
+  position: relative;
+  top: 7.7rem;
+}
+
