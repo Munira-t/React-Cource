@@ -11,7 +11,7 @@ function Nav() {
     <div>
       <nav className='pt-5 pe-3 ps-4'>
         <div>
-          <img src={logo} className="logo"></img>
+          <img src={lppogo} className="logo"></img>
         </div>
 
 <ul>
